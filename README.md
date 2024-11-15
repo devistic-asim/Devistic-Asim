@@ -1,4 +1,4 @@
-# Muhammad Asim | Mid-Level Software Engineer
+# Muhammad Asim | Sr. Software Engineer
 
 ### About Me 👨‍💻 
 
@@ -48,4 +48,3 @@ Looking forward to connecting with fellow tech enthusiasts and industry professi
  
  
  -->
- ![GitHub Streak](https://streak-stats.demolab.com/?user=devistic-asim&theme=dark)
